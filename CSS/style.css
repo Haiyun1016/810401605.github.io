@@ -2,3 +2,8 @@
     display: block;
     margin: 0 auto;
 }
+
+.ddmc img{
+    height: 500px;
+    width: 500px;
+}
